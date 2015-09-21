@@ -1,6 +1,7 @@
 ﻿<?php
 if(!isset($_REQUEST['action'])){
 	$_REQUEST['action'] = 'demandeConnexion';
+	echo "lala";
 }
 $action = $_REQUEST['action'];
 switch($action){
