@@ -3,7 +3,7 @@
  * Fonctions pour l'application GSB
  
  * @package default
- * @author Cheri Bibi
+ * @author Cheri'rer Bibi
  * @version    1.0
  */
  /**
